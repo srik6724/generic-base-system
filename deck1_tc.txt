@@ -1,0 +1,317 @@
+BALANCE DECK
+-----------------------------------
+Spell Name: Tower Shield
+Count: 1
+Description: Applies a -50% Damage Ward
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Universal-Shield
+-----------------------------------
+Spell Name: Tower Shield
+Count: 2
+Description: Applies a -50% Damage Ward
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Universal-Shield
+-----------------------------------
+Spell Name: Tower Shield
+Count: 3
+Description: Applies a -50% Damage Ward
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Universal-Shield
+-----------------------------------
+Spell Name: Tower Shield
+Count: 4
+Description: Applies a -50% Damage Ward
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Universal-Shield
+-----------------------------------
+Spell Name: Tower Shield
+Count: 5
+Description: Applies a -50% Damage Ward
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Universal-Shield
+-----------------------------------
+Spell Name: Tower Shield
+Count: 6
+Description: Applies a -50% Damage Ward
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Universal-Shield
+-----------------------------------
+Spell Name: Tower Shield
+Count: 7
+Description: Applies a -50% Damage Ward
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Universal-Shield
+-----------------------------------
+Spell Name: Tower Shield
+Count: 8
+Description: Applies a -50% Damage Ward
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Universal-Shield
+-----------------------------------
+Spell Name: Hex
+Count: 1
+Description: +30% to next incoming damage spell
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Hex
+Count: 2
+Description: +30% to next incoming damage spell
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Hex
+Count: 3
+Description: +30% to next incoming damage spell
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Balance Blade
+Count: 2
+Description: +25% to the next outgoing Damage or Steal Spell
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Blade
+-----------------------------------
+Spell Name: Curse
+Count: 1
+Description: Applies a +30% Damage Ward
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Utility-Trap
+-----------------------------------
+Spell Name: Curse
+Count: 3
+Description: Applies a +30% Damage Ward
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Utility-Trap
+-----------------------------------
+Spell Name: Empower
+Count: 4
+Description: Deals 250 Moon Damage to self to gain 3 pips(No Crit)
+Pip Chance: 100%
+Pips: 1
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Weakness
+Count: 1
+Description: Applies a -25% Damage Charm
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Weakness
+-----------------------------------
+Spell Name: Weakness
+Count: 3
+Description: Applies a -25% Damage Charm
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Weakness
+-----------------------------------
+Spell Name: Elemental Trap
+Count: 3
+Description: Applies +30% Fire, Ice, and Storm Damage Wards
+Pip Chance: 100%
+Pips: 1
+School: Insert School Name Here
+Type Of Spell: Triple-Trap
+-----------------------------------
+Spell Name: Cleanse Charm
+Count: 1
+Description: Remove a negative Charm from ally
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Cleanse Charm
+Count: 2
+Description: Remove a negative Charm from ally
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Cleanse Charm
+Count: 3
+Description: Remove a negative Charm from ally
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Cleanse Charm
+Count: 4
+Description: Remove a negative Charm from ally
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Balance Blade
+Count: 1
+Description: +25% to the next outgoing Damage or Steal Spell
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Blade
+-----------------------------------
+Spell Name: Empower
+Count: 1
+Description: Deals 250 Moon Damage to self to gain 3 pips(No Crit)
+Pip Chance: 100%
+Pips: 1
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Balance Blade
+Count: 3
+Description: +25% to the next outgoing Damage or Steal Spell
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Blade
+-----------------------------------
+Spell Name: Empower
+Count: 2
+Description: Deals 250 Moon Damage to self to gain 3 pips(No Crit)
+Pip Chance: 100%
+Pips: 1
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Curse
+Count: 2
+Description: Applies a +30% Damage Ward
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Utility-Trap
+-----------------------------------
+Spell Name: Empower
+Count: 3
+Description: Deals 250 Moon Damage to self to gain 3 pips(No Crit)
+Pip Chance: 100%
+Pips: 1
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Ninja Pigs
+Count: 1
+Description: Deals 640 Myth Damage
+Pip Chance: 80%
+Pips: 5
+School: Insert School Name Here
+Type Of Spell: Attack
+-----------------------------------
+Spell Name: Reshuffle
+Count: 1
+Description: Reshuffles all used or discarded cards back into the deck
+Pip Chance: 100%
+Pips: 4
+School: Insert School Name Here
+Type Of Spell: Utility
+-----------------------------------
+Spell Name: Sabertooth
+Count: 1
+Description: Deals 805-905 Balance Damage to target and -50% to the next incoming Fire, Ice, Storm, Myth, Life, and Death Damage Spells to self
+Pip Chance: 85%
+Pips: 10
+School: Insert School Name Here
+Type Of Spell: Attack
+-----------------------------------
+Spell Name: Elemental Trap
+Count: 1
+Description: Applies +30% Fire, Ice, and Storm Damage Wards
+Pip Chance: 100%
+Pips: 1
+School: Insert School Name Here
+Type Of Spell: Triple-Trap
+-----------------------------------
+Spell Name: Weakness
+Count: 2
+Description: Applies a -25% Damage Charm
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Weakness
+-----------------------------------
+Spell Name: Elemental Trap
+Count: 2
+Description: Applies +30% Fire, Ice, and Storm Damage Wards
+Pip Chance: 100%
+Pips: 1
+School: Insert School Name Here
+Type Of Spell: Triple-Trap
+-----------------------------------
+Spell Name: Weakness
+Count: 4
+Description: Applies a -25% Damage Charm
+Pip Chance: 100%
+Pips: 0
+School: Insert School Name Here
+Type Of Spell: Weakness
+-----------------------------------
+Spell Name: Loremaster
+Count: 1
+Description: Deals 235-315 Balance Damage to and applies -15% Damage and -25% Accuracy Charms on target
+Pip Chance: 85%
+Pips: 4
+School: Insert School Name Here
+Type Of Spell: Attack
+-----------------------------------
+Spell Name: Loremaster
+Count: 2
+Description: Deals 235-315 Balance Damage to and applies -15% Damage and -25% Accuracy Charms on target
+Pip Chance: 85%
+Pips: 4
+School: Insert School Name Here
+Type Of Spell: Attack
+-----------------------------------
+Spell Name: Loremaster
+Count: 3
+Description: Deals 235-315 Balance Damage to and applies -15% Damage and -25% Accuracy Charms on target
+Pip Chance: 85%
+Pips: 4
+School: Insert School Name Here
+Type Of Spell: Attack
+-----------------------------------
+Spell Name: Loremaster
+Count: 4
+Description: Deals 235-315 Balance Damage to and applies -15% Damage and -25% Accuracy Charms on target
+Pip Chance: 85%
+Pips: 4
+School: Insert School Name Here
+Type Of Spell: Attack
+-----------------------------------
+Spell Name: Loremaster
+Count: 5
+Description: Deals 235-315 B
