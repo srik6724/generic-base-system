@@ -74,7 +74,7 @@ import Testing.StatePersistence;
 import Variables.BreakpointVariables;
 import dataStructures.Element;
 import deckBuild.DarkmoorDeck;
-import io.netty.channel.unix.Buffer;
+//import io.netty.channel.unix.Buffer;
 import javafx.application.Application;
 public class Match implements MooshuArena, DragonSpyreArena, GrizzleheimArena, HeapArena, Arena, AvalonArena, Match_Recorder {
 	// Putting match_writer here for now
@@ -2191,7 +2191,4 @@ public String randomizeHeadsOrTails()
 				System.out.println(extractGearType); 
 				return null;
 	}
-
-	
-
 }
